@@ -35,3 +35,9 @@
 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alp3r3n"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/alp3r3n" /></a></p><br><br>
 
+![snake gif](https://github.com/Alp3r3n/Alp3r3n/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alp3r3n/Alp3r3n/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alp3r3n/Alp3r3n/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alp3r3n/Alp3r3n/output/github-contribution-grid-snake.svg">
+</picture>
