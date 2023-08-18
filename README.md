@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fred-nature&psig=AOvVaw0pWe_Dwqx4sSC21REcCCPJ&ust=1692480207205000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMj8jaGS54ADFQAAAAAdAAAAABAI)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetwallpapers.com%2Fcollection%2Fred-nature-wallpaper&psig=AOvVaw0pWe_Dwqx4sSC21REcCCPJ&ust=1692480207205000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMj8jaGS54ADFQAAAAAdAAAAABA0)
 
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">I am junior react-native and c++ developer.</h3>
