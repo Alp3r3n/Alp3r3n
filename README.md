@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CUDA, AI models and agents**
 
-- 🤝 I’m looking for help with **RPython and C++**
+- 🤝 I’m looking for help with **Python and C++**
 
 - 💬 Ask me about **Python, C++**
 
