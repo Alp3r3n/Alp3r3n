@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CUDA, AI models and agents**
 
-- 🤝 I’m looking for help with **Python and C++**
+- 🤝 I build practical projects in **Computer Vision**, **CUDA**, **Edge AI** and **AI agent security** using **Python**, **C++** and **NVIDIA Jetson**.
 
 - 💬 Ask me about **Python, C++**
 
